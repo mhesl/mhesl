@@ -7,7 +7,7 @@ Experienced iOS Developer with 5+ years in client-side software engineering. I c
 Computer Engineering student at Amirkabir University of Technology with a passion for mobile development and IoT.
 
 ## 🛠️ Tech Stack
-- **Languages:** Swift (Primary), Kotlin, Java, Python, C
+- **Languages:** Swift (Primary), Kotlin, Java, C
 - **Mobile Development:** iOS (UIKit, SwiftUI, CoreData), KMM, Android Basics
 - **Architecture Patterns:** MVVM, MVC, Repository Pattern, Coordinator Pattern
 - **Principles:** SOLID, Clean Code, OOP
